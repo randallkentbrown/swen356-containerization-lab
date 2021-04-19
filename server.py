@@ -4,7 +4,7 @@ import json
 CONFIG_ROUTE = "./config.json"
 DATA_ROUTE = "./data.json"
 
-DATA_KEY = "data"
+DATA_KEY = "key"
 HOST_KEY = "host"
 PORT_KEY = "port" #sadly, not boot
 
