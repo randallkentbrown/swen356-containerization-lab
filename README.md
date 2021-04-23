@@ -1,5 +1,5 @@
 # swen356-containerization-lab
-A lab exercise to try out Docker. The Dockerfile is incomplete and needs a few commands put in, and you'll need to figure out the correct commands to create your image and start the application.
+A lab exercise to try out Docker. The Dockerfile is incomplete and needs a few commands put in, and you'll need to figure out the correct commands to create your image and start the application. Here's the link to the repo: https://github.com/randallkentbrown/swen356-containerization-lab
 
 ## Application Overview
 The application is a simple web server with two routes.
